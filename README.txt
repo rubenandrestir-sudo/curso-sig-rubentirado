@@ -6,4 +6,4 @@ Trabajos del curso Servicios SIG y Sitios Web (Maestría SIG, UJdeC).
 (instrucciones)
 
 ## De dónde salen los datos
-Paquete de Boyacá descargado con `scripts/descargar_boyaca.py` (IDE Boyacá y DANE).
+Paquete de Boyacá descargado con `scripts/descargar_boyaca.py`(IDE Boyacá y DANE).
